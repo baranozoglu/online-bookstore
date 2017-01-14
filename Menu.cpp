@@ -2,7 +2,7 @@
  * @file  Menu.cpp
  * @Author fatih
  * @time 29 Ara 2016
- * @brief this file is about Menu.
+ * @brief this file implements Menu class functions.
  */
  //! Menu class.
 #include <limits>

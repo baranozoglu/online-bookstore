@@ -2,7 +2,7 @@
  * @file  Menu.cpp
  * @Author fatih
  * @time 29 Ara 2016
- * @brief this file is about Menu.
+ * @brief this file declares Menu class.
  */
  //! Menu class.
 #ifndef ONLINE_BOOKSTORE_MENU_H

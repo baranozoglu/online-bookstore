@@ -2,7 +2,7 @@
  * @file  Payment.h
  * @Author fatih
  * @time 24 Ara 2016
- * @brief this file is about payment model.
+ * @brief this file declares Payment class.
  */
 #ifndef ONLINE_BOOKSTORE_PAYMENT_H
 #define ONLINE_BOOKSTORE_PAYMENT_H

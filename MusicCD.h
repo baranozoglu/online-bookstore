@@ -2,7 +2,7 @@
  * @file  MusicCD.h
  * @Author eren
  * @time 24 Ara 2016
- * @brief this file is about profuct of MusicCD.
+ * @brief this file declares MusicCD class.
  */
  //! MusicCD class.
 #ifndef MUSICCD_H_

@@ -2,7 +2,7 @@
  * @file  CustomerMenu.h
  * @Author fatih
  * @time 29 Ara 2016
- * @brief this file is about customer on menu.
+ * @brief this file declares CustomerMenu class.
  */
  //! CustomerMenu class.
 

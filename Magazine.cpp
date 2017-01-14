@@ -2,7 +2,7 @@
  * @file  Magazine.cpp
  * @Author eren
  * @time 24 Ara 2016
- * @brief this file is about product of magazine.
+ * @brief this file implements Magazine class functions.
  */
  //! CustomerMenu class.
 

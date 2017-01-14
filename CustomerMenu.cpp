@@ -2,7 +2,7 @@
  * @file  CustomerMenu.cpp
  * @Author fatih
  * @time 29 Ara 2016
- * @brief this file is about customer on menu.
+ * @brief this file implements customerMenu class functions.
  */
  //! CustomerMenu class.
 #include "CustomerMenu.h"

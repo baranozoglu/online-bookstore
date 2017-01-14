@@ -2,7 +2,7 @@
   * @file  Magazine.h
   * @Author eren
   * @time 24 Ara 2016
-  * @brief this file is about product of magazine.
+  * @brief this file declares Magazine class.
   */
 
 	//! CustomerMenu class.

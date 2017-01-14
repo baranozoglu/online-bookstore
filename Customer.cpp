@@ -2,7 +2,7 @@
  * @file  Customer.cpp
  * @Author baran
  * @time 24 Ara 2016
- * @brief this file is about customer and customer datas.
+ * @brief this file implements Customer class functions.
  */
  //! Customer class.
 #include "Customer.h"

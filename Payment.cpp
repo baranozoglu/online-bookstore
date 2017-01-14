@@ -2,7 +2,7 @@
  * @file  Payment.cpp
  * @Author fatih
  * @time 24 Ara 2016
- * @brief this file is about payment model.
+ * @brief this file implements Payment class functions.
  */
  //! Payment class.
 #include "Payment.h"

@@ -2,7 +2,7 @@
  * @file  Customer.h
  * @Author baran
  * @time 24 Ara 2016
- * @brief this file is about customer and customer datas.
+ * @brief this file declares Customer class.
  */
 #include <iostream>
 #include <string>

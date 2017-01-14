@@ -2,7 +2,7 @@
   * @file  MusicCD.cpp
   * @Author eren
   * @time 24 Ara 2016
-  * @brief this file is about profuct of MusicCD.
+  * @brief this file implements MusicCD class functions.
   */
   //! MusicCD class.
 #include "MusicCD.h"

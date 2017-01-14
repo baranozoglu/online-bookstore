@@ -2,7 +2,7 @@
  * @file  Product.cpp
  * @Author fatih
  * @time 24 Ara 2016
- * @brief this file is about products.
+ * @brief this file implements Product class functions.
  */
  //! product class.
 #include "Product.h"

@@ -2,7 +2,7 @@
  * @file  MainMenu.h
  * @Author fatih
  * @time 29 Ara 2016
- * @brief this file is about MainMenu.
+ * @brief this file declares MainMenu class.
  */
  //! MainMenu class.
 #ifndef ONLINE_BOOKSTORE_MAINMENU_H

@@ -2,7 +2,7 @@
  * @file  MainMenu.cpp
  * @Author fatih
  * @time 29 Ara 2016
- * @brief this file is about MainMenu.
+ * @brief this file implements MainMenu class functions.
  */
  //! MainMenu class.
 #include "MainMenu.h"
